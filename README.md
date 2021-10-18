@@ -4,6 +4,7 @@
 <h2>Practice from Videos</h2>
 <ul>
 <li><a href = "project1/index.html" target="_blank">Project 1 (Practice)</a></li>
+<li><a href = "project2/index.html" target="_blank">Project 2 (Practice)</a></li>
 </ul>
 <h2>Lab Assignments</h2>
 <ul>
