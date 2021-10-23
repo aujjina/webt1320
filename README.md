@@ -9,5 +9,5 @@
 <h2>Lab Assignments</h2>
 <ul>
 <li><a href = "hello_world/index.html" target="_blank">Lab 1 Assignment</a></li>
-<li><a href = "lab2/index.html" target = "_blank">Lab 2 Assignment - Intro to Semantic Tags and CSS</li>
+<li><a href = "lab2/index.html" target = "_blank">Lab 2 Assignment - Intro to Semantic Tags and CSS</a></li>
 </ul>
