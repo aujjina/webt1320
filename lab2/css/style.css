@@ -84,6 +84,10 @@ footer{
 }
 
 /*---Other---*/
+h2{
+    text-shadow: 1px 1px 1px #000;
+}
+
 #container {
     background-color: #405673;
     width: 900px;
@@ -110,6 +114,3 @@ footer{
     width: 450px;
 }
 
-h2{
-    text-shadow: 1px 1px 1px #000;
-}
