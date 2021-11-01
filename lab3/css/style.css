@@ -20,7 +20,7 @@ header{
     padding: 20px;
     border-bottom: 4px solid #A60303;
     text-align: center;
-    font-size: 1.75em;
+    font-size: 120%;
 }
 
 .headstyle{
@@ -40,8 +40,7 @@ header{
 }
 
 .col img{
-    width: 60%;
-    height: 80%;
+    width: 77%;
 }
 
 .col p {
@@ -58,28 +57,35 @@ footer{
 }
 
 @media(min-width: 768px){
+    header{
+        font-size: 140%;
+    }
+
     #container{
         width: 80%;
         margin: 20px auto;
     }
     .col{
-        width: 70%;
+        width: 80%;
         margin: 20px auto;
     }
 
     .col img{
-        width: 50%;
-        height: 50%;
+        width: 80%;
     }
 }
 
 @media(min-width: 1024px){
+    header{
+        font-size: 160%;
+    }
+
     #container{
         width: 75%;
         border-radius: 20px;
     }
 
-    #flex{
+    .flex{
         display: flex;
     }
 
@@ -89,6 +95,6 @@ footer{
     }
 
     .col img{
-        width: 80%;
+        width: 100%;
     }
 }
