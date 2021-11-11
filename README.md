@@ -11,4 +11,5 @@
 <li><a href = "hello_world/index.html" target="_blank">Lab 1 Assignment</a></li>
 <li><a href = "lab2/index.html" target = "_blank">Lab 2 Assignment - Intro to Semantic Tags and CSS</a></li>
 <li><a href = "lab3/index.html" target = "_blank">Lab 3 Assignment - Responsive Web Design</a></li>
+<li><a href = "lab4/index.html" target = "_blank">Lab 4 - Media and Tables</a></li>
 </ul>
