@@ -46,9 +46,10 @@ nav li a{
     line-height: 50px;
     text-align: center;
     text-decoration: none;
-    font-size: 1.4em;
+    font-size: 1em;
     margin: 15px 0;
     border-radius: 10px;
+    font-family:'Nunito', sans-serif;
 }
 
 nav li a:hover{
@@ -97,7 +98,8 @@ section img {
 footer{
     text-align: center;
     color: #000;
-    font-size: 1.4em;
+    font-size: 1em;
+    font-family: 'Nunito', sans-serif;
 }
 
 .single_col{
@@ -121,8 +123,10 @@ table {
 }
 
 p{
+    font-family: 'Nunito', sans-serif;
     text-align: center;
-    font-size: 1.3em;
+    font-size: 1em;
+    line-height: 1.5;
 }
 
 /* Tablet Styles */
@@ -171,7 +175,10 @@ p{
     }
 
     p{
-        font-size: 1.6em;
+        font-size: 1.3em;
+    }
+    h2{
+        font-size: 2.5em;
     }
 
 }
@@ -187,7 +194,7 @@ p{
 
     header{
         border-radius: 20px 20px 0 0;
-        font-size: 1.65em;
+        font-size: 1.8em;
     }
 
     nav li a{
@@ -228,7 +235,12 @@ p{
     table{
         display: block;
     }
+
     p, footer{
-        font-size: 1.5em;
+        font-size: 1.2em;
+    }
+
+    h2{
+        font-size: 2.5em;
     }
 }
